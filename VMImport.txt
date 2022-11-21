@@ -1,0 +1,33 @@
+x	x		
+2	0		
+0	2		
+2	0		
+2	0		
+2	0		
+2	0		
+2	0		
+2	0		
+2	0		
+2	0		
+2	0		
+2	2		
+2	0		
+1	1		
+2	0		
+2	2		
+0	2		
+0	2		
+0	2		
+1	1		
+0	2		
+2	2		
+0	2		
+NET	DEN	GER	BRA
+ENG	FRA	SPA	POR
+NED	GER	ENG	SPA
+NET	ENG		
+NET			
+Kane Harry			
+Depay, Memphis			
+ENG			
+NET			
