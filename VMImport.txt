@@ -27,7 +27,7 @@ ENG	FRA	SPA	POR
 NED	GER	ENG	SPA
 NET	ENG		
 NET			
-Kane Harry			
+Kane, Harry			
 Depay, Memphis			
 ENG			
 NET			
